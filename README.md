@@ -2,8 +2,6 @@
 A simple and interactive **Quiz App** built using **HTML, CSS, and JavaScript**.  
 This project is beginner-friendly and demonstrates core web development concepts like DOM manipulation, event handling, and dynamic UI rendering.
 
----
-
 ## Features
 -  Multiple-choice questions  
 -  Next question navigation  
@@ -13,9 +11,11 @@ This project is beginner-friendly and demonstrates core web development concepts
 -  Fully responsive design  
 -  Lightweight – No backend required  
 
----
-
 ## Tech Stack
-- HTML5
-- CSS3
-- JavaScript (ES6)
+- HTML
+- CSS
+- JavaScript
+  
+## Live Demo
+(https://ishikajain24.github.io/quiz-app/)
+
