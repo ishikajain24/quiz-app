@@ -19,3 +19,4 @@ This project is beginner-friendly and demonstrates core web development concepts
 ## Live Demo
 (https://ishikajain24.github.io/quiz-app/)
 
+
